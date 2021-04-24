@@ -1,4 +1,4 @@
-# hakintosh
+# hackintosh
 
 Compatible for HP Pavilion Gaming — 15-cx0xxx
 
